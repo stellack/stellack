@@ -1,5 +1,5 @@
-### Hi there 👋 I am Chemutai Koech Stella
-#### I am a passionate Fullstack developer and Linux Administration
+## Hi there 👋 I am Chemutai Koech Stella
+### I am a passionate Fullstack developer and Linux Administration
 
 <!--
 **stellack/stellack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
